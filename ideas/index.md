@@ -5,6 +5,15 @@
 * Include some or all of Andrew Ng's [Agentic AI course](https://www.deeplearning.ai/courses/agentic-ai) at deeplearning.ai.
   * [list of course topics](ng-course-topics.md)
 
+* Harvard's course is not directly suitable for us but can provide some inspiration -- thanks to Ty Chermsirivatana for the pointer: [CS2680 Modern AI Systems: Agents and System Optimizations,Fall 2026](https://cs2680.com/)
+
+## Student suggestions
+
+Adacus Greene:
+
+> One thing that I think would be interesting as a topic would be a "hands-on" project where we use agentic AI tools to create an application of our choice. I think the experience would be very useful early on to give all the students a baseline to see how the tools work and the power/drawbacks that they have.
+
+
 ## Required readings and discussions
 
 just a few ideas...
